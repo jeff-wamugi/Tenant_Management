@@ -1,6 +1,2 @@
-tms/.env
-tms/.env.local
-tms/.env.development
-tms/.env.test
-tms/.env.production
-
+env
+/tms/.env
