@@ -1,2 +1,5 @@
 env
 tms/.env
+__pycache__/
+*.pyc
+postgres_data/
