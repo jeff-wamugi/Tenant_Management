@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p>Hello World! This is the Tenant Management System (TMS) application.</p>
+      <p>Hello Everyone! I am Jeff, this is a Tenant Management System (TMS)  Web Application.</p>
     </>
   )
 }
